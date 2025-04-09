@@ -20,14 +20,6 @@ This project is built with **Python** and the **Pygame** library for rendering, 
 ## Installation
 
 To play **Isekai Fantasy Adventure**, you'll need **Python** and the **Pygame** library. Follow these steps to get started:
-
-### Step 1: Clone the Repository
-```bash
-git clone https://github.com/yourusername/isekai-fantasy-adventure.git
-cd isekai-fantasy-adventure
-
----
-
 ### **Key Sections of the `README.md` File:**
 1. **Overview**: A brief description of the game, its inspiration, and what players can expect.
 2. **Features**: Detailed list of all major features, including character creation, combat, leveling, inventory, etc.
@@ -45,4 +37,10 @@ cd isekai-fantasy-adventure
 - Be sure to update your **GitHub repository URL** when cloning if it's specific to your project.
 - You can expand or modify sections like **features**, **installation**, and **contributing** based on future updates or additional elements you add to the game.
 
-Let me know if you need more help with anything else! Happy coding! 😄
+### Step 1: Clone the Repository
+```bash
+git clone https://github.com/yourusername/isekai-fantasy-adventure.git
+cd isekai-fantasy-adventure
+
+---
+
